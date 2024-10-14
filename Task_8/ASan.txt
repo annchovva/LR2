@@ -1,0 +1,2 @@
+g++ -fsanitize=address -g Task_8.cpp -o Task_8
+./Task_8
